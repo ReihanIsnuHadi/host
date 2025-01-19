@@ -1,0 +1,17 @@
+{
+"orientation": "any",
+"name": "BiodataReihan",
+"short_name": "BioRei",
+"start_url": "index.html",
+"display": "standalone",
+"theme_color": "#0d0072",
+"background_color": "#0d0072",
+"description": "PWA profil diri.",
+"icons": [
+    {
+        "src": "profile-pic.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    }
+]
+}
